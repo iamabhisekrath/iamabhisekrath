@@ -1,4 +1,4 @@
-### Hi i am Abhisek  👋
+### Hi i am Abhisek Rath  👋
 - 🔭 I’m currently working as a intern,
 - 🌱 I’m currently learning AI,ML,UI/UX
 - 👯 I’m looking to collaborate on ...
