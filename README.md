@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamabhisekrath" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhisekrath?logo=twitter&style=for-the-badge" alt="iamabhisekrath" /></a> </p>
 
-- 🔭 I’m currently working on **Intern**
+- 🔭 I’m currently working on **Intern in devtown**
 
 - 🌱 I’m currently learning **AI/ML,UI/UX**
 
-- 👯 I’m looking to collaborate on **Web Devloper**
+- 👯 I’m looking to collaborate on **sharing awareness around accessibility**
 
 - 📝 I regularly write articles on [https://deeperintodreams.wordpress.com/](https://deeperintodreams.wordpress.com/)
 
