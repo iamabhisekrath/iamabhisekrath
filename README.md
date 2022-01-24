@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://deeperintodreams.wordpress.com/](https://deeperintodreams.wordpress.com/)
 
-- 💬 Ask me about **python,content writing,HTML**
+- 💬 Ask me about **python,content writing,HTML,CSS,JS,MYSQL**
 
 - 📫 How to reach me **abhisekrath@yahoo.com**
 
