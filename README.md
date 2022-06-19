@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<a href="https://app.daily.dev/abhisek_rath"><img src="https://api.daily.dev/devcards/6a3e9ca49b194faea42058a4595f764c.png?r=6pi" width="400" alt="Abhisek Rath's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamabhisekrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabhisekrath" height="30" width="40" /></a>
