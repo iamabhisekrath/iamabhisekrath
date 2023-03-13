@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamabhisekrath" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhisekrath?logo=twitter&style=for-the-badge" alt="iamabhisekrath" /></a> </p>
 
-- 🔭 I’m currently working on **Intern in Hirekarma**
+- 🔭 I’m currently working on **Building NotInLine**
 
 - 🌱 I’m currently learning **AI/ML,UI/UX**
 
