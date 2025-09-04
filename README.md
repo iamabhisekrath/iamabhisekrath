@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **sharing awareness around accessibility**
 
 - 📝 I regularly write articles on LiLinkedIn 
-- 💬 Ask me about **python,content writing,HTML,CSS,JS,MYSQL**
+- 💬 Ask me about **HTML,CSS,JS,ReactJS,Angular**
 
 - 📫 How to reach me **iamabhisekrath@gmail.com**
 
