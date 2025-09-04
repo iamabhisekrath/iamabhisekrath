@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhisek Rath nice to see you here</h1>
-<h3 align="center">A passionate web developer and a learner AI/ML,UX/UI from India</h3>
+<h3 align="center">A passionate UI/UX  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhisekrath&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhisekrath" /> </p>
 
@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/iamabhisekrath" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhisekrath?logo=twitter&style=for-the-badge" alt="iamabhisekrath" /></a> </p>
 
-- 🔭 I’m currently working on **Building NotInLine**
+- 🔭 I’m currently working on **Building CanvasCycle**
 
-- 🌱 I’m currently learning **AI/ML,UI/UX**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **sharing awareness around accessibility**
 
-- 📝 I regularly write articles on [https://deeperintodreams.wordpress.com/](https://deeperintodreams.wordpress.com/)
-
+- 📝 I regularly write articles on LiLinkedIn 
 - 💬 Ask me about **python,content writing,HTML,CSS,JS,MYSQL**
 
-- 📫 How to reach me **abhisekrath@yahoo.com**
+- 📫 How to reach me **iamabhisekrath@gmail.com**
 
 - 📄 Know about my experiences [https://iamabhisekrath.github.io/AbhisekRath/](https://iamabhisekrath.github.io/AbhisekRath/)
 
